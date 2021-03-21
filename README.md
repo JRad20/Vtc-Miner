@@ -6,7 +6,7 @@ Hey guys so i've been mining vertcoin recently and there where a few issues that
 
 Please install the latest verizon of python from https://www.python.org/downloads/
 
-then install the requirments in cmd
+then install the requirments in cmd and run verthashgui.py
 
 ```
 pip install flask
