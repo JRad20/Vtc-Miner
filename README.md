@@ -1,12 +1,12 @@
 # Vtc-Miner
 
-Hey guys so i've been mining vertcoin recently and there where a few issues that i was having with the OCM & Vert has ( usablaity wise ) so i went head and made my own verizon it's basically just a nice clean easy to usue GUI for verthash i also have more advaced features ( That the current OCM does not have ) in the works. if you would like to support this project and future updates Please send donations too VqFsXZwN94882ZJcdMPhHPWStaqV3UJQMh
+Hey guys, I've been mining vertcoin recently and there were a few issues that I was having with the OCM & Vert (usability wise) so I went ahead and made my own version. It's basically just a nice clean easy to use GUI for VerthashMiner. I also have more advanced features that the current OCM does not have in the works. If you would like to support this project and future updates please send donations to VqFsXZwN94882ZJcdMPhHPWStaqV3UJQMh
 
 <h2>Installation</h2>
 
-Please install the latest verizon of python from https://www.python.org/downloads/
+Please install the latest version of python from https://www.python.org/downloads/
 
-then install the requirments in cmd and run verthashgui.py
+Then install the requirements in cmd and run verthashgui.py
 
 ```
 pip install flask
@@ -15,8 +15,8 @@ pip install requests
 
 <h2> Updates coming soon </h2>
 
- - Fully compiled verizon along with source code build
- - Zergpool & Hashcryptos along with all the differnt payout currentcies
+ - Fully compiled version along with source code build
+ - Zergpool & Hashcryptos along with all the different payout currentcies
  - GUI improvements
  - GPU temperature control
  - Custom Pools
