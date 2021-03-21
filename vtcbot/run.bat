@@ -1,0 +1,2 @@
+VerthashMiner.exe -u VqFsXZwN94882ZJcdMPhHPWStaqV3UJQMh -p x -o stratum+tcp://vtc.suprnova.cc:1776 --verthash-data C:\users\Jared\appdata\roaming\vertcoin-ocm\verthash.dat --all-cl-devices --all-cu-devices
+pause
